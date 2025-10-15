@@ -27,7 +27,6 @@ if (currentScore > 90) {
 // =========================================================
 // PART 2: At Least 2 Custom Functions
 // =========================================================
-
 /**
  * Function 1: Calculates a modified score based on a bonus multiplier.
  * @param {number} score - The base score.
